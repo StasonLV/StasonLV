@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StasonLV
 - 👀 I’m interested in creating smth new
 - 🌱 I’m currently learning Swift language and iOS developing
-- 💞️ I’m looking to collaborate on some sort of projects (OpenSource maybe)
+- 🧑🏻‍💻 I’m looking to collaborate on some sort of projects (OpenSource maybe)
 - 📫 How to reach me @stasonlv on Telegram!
 
 <!---
