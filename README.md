@@ -6,15 +6,11 @@
 [![iktc8Ak-_2](https://user-images.githubusercontent.com/98527464/221831634-d1cade41-762b-40bb-be92-38c947cf92d7.svg)][3]
 ![LXBbFv5t(4)](https://user-images.githubusercontent.com/98527464/221830866-772cf88e-d083-4b59-b37d-aac37942d76c.svg)
 
-
+- Learning best practices in iOS mobile development. Interested in collaboration in any sor of prjects.
 
 ![](https://komarev.com/ghpvc/?username=StasonLV&style=for-the-badge)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StasonLV&theme=dark_dimmed&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 🌱 I’m currently learning Swift language and iOS developing
-- 🧑🏻‍💻 I’m looking to collaborate on some sort of projects (OpenSource maybe)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=StasonLV&theme=dark_dimmed&margin-w=30&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 StasonLV/StasonLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
