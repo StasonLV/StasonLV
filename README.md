@@ -6,7 +6,7 @@
 [![iktc8Ak-_2](https://user-images.githubusercontent.com/98527464/221831634-d1cade41-762b-40bb-be92-38c947cf92d7.svg)][3]
 ![LXBbFv5t(4)](https://user-images.githubusercontent.com/98527464/221830866-772cf88e-d083-4b59-b37d-aac37942d76c.svg)
 
-- Learning best practices in iOS mobile development. Interested in collaboration in any sor of prjects.
+- Learning best practices in iOS mobile development. Interested in collaboration in any sort of prjects.
 
 ![](https://komarev.com/ghpvc/?username=StasonLV&style=for-the-badge)
 
