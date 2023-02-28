@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=StasonLV&style=for-the-bage)
+![](https://komarev.com/ghpvc/?username=StasonLV&style=for-the-badge)
 
 - 👋 Hi, my name is Stanislav
 - 👀 I’m interested in creating iOS apps and expand my competencies
