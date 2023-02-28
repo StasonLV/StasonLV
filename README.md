@@ -1,3 +1,5 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StasonLV)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 👋 Hi, my name is Stanislav
 - 👀 I’m interested in creating iOS apps and expand my competencies
 - 🌱 I’m currently learning Swift language and iOS developing
