@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @StasonLV
-- 👀 I’m interested in creating smth new
+- 👋 Hi, my name is Stanislav
+- 👀 I’m interested in creating iOS apps and expand my competencies
 - 🌱 I’m currently learning Swift language and iOS developing
 - 🧑🏻‍💻 I’m looking to collaborate on some sort of projects (OpenSource maybe)
-- 📫 How to reach me @stasonlv on Telegram!
+- 📫 How to reach me: @stasonlv on Telegram!
 
 <!---
 StasonLV/StasonLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
